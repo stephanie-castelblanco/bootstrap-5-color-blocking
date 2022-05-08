@@ -1,0 +1,25 @@
+.grey-background {
+  background-color: lightgray;
+  height: 200px;
+}
+
+.white-background {
+  background-color: whitesmoke;
+  height: 200px;
+}
+
+.black-background {
+  background-color: black;
+  color: whitesmoke;
+  height: 200px;
+}
+
+.grad-background {
+  background: url('gradbackground.png') no-repeat center center fixed;
+  background-size: cover;
+  height: 200px;
+}
+
+.colorblocktop {
+  padding-top: 20px;
+}
